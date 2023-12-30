@@ -46,7 +46,7 @@ The objective of the game is to control the snake and eat the red food pellets t
    - Run the game:
      
    ```bash
-      python snake_game.py
+      python snake.py
    ```
 
 
