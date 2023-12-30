@@ -48,7 +48,7 @@ The objective of the game is to control the snake and eat the red food pellets t
 
 
 ## Controls
-   Arrow Up: Move Up
-   Arrow Down: Move Down
-   Arrow Left: Move Left
-   Arrow Right: Move Right
+   - Arrow Up: Move Up
+   - Arrow Down: Move Down
+   - Arrow Left: Move Left
+   - Arrow Right: Move Right
